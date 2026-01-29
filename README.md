@@ -1,4 +1,4 @@
-# Wumpus World (console, Python)
+# Wumpus World 
 
 This is a small console project based on the classic **Wumpus World** problem.
 
